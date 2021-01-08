@@ -2,3 +2,9 @@
   font-family: sans-serif;
   text-align: center;
 }
+body {
+  background-color: #e8cebf;
+}
+button {
+  background-color: #266150;
+}
